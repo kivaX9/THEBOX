@@ -278,8 +278,7 @@ h1,h2,h3,h4,h5,h6 {
 /* leader__img */
 .leader__img{
    width: 100%;
-   max-width: 902px;
-   
+   max-width: 902px;   
 }
 
 /* about items */
@@ -915,7 +914,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .comment__decor{
-   color: #631717;
+   color: #b41a1a;
 }
 
 .registr__button{
