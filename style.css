@@ -469,8 +469,12 @@ h1,h2,h3,h4,h5,h6 {
 
 .img__clients{
    position: absolute;
-   left: calc(75%);
+   left: calc(70%);
    bottom: calc(60%);
+
+   /* display: block;
+   width: 100%;
+   max-width: 97px; */
 }
 
 .left__number{
@@ -520,7 +524,7 @@ h1,h2,h3,h4,h5,h6 {
 
 .img__project{
    position: absolute;
-   right: calc(88%);
+   right: calc(85%);
    bottom: calc(78%);
 }
 
@@ -543,7 +547,7 @@ h1,h2,h3,h4,h5,h6 {
 
 .img__award{
    position: absolute;
-   left: calc(75%);
+   left: calc(70%);
    bottom: calc(60%);
 }
 
@@ -568,7 +572,7 @@ h1,h2,h3,h4,h5,h6 {
 
 .img__business{
    position: absolute;
-   left: calc(80%);
+   left: calc(77%);
    top: calc(72%);
 }
 
